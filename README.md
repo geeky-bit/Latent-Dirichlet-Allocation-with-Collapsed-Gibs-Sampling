@@ -12,7 +12,7 @@
 * tf-idf : term frequency–inverse document frequency
 * dtm : document term matrix or term document matrix
 
-**Output of sample I used:**
+**Output of sample I used: **
 ![alt text](https://github.com/geeky-bit/LDA/blob/master/output.PNG)
 
 **_Note: The codes are freely available to use. Please feel free to add more. Spread the word!_**
