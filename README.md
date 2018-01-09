@@ -1,6 +1,4 @@
-# Latent-Dirichlet-Allocation (LDA) in one Function
-
-**_TOPIC MODELLING via LDA_**
+# _TOPIC MODELLING via Latent-Dirichlet-Allocation (LDA)_
 
 **This is an implementation of LDA with Collapsed Gibs Sampling**
 
